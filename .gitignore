@@ -1,4 +1,4 @@
-weights/best.pt
+weights/*
 best.pt
 model_100.pth
 LOD_coco/*
