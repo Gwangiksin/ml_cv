@@ -2,3 +2,29 @@ weights/*
 best.pt
 model_100.pth
 LOD_coco/*
+LOD_coco.zip
+wandb/debug-internal.log
+wandb/debug.log
+wandb/latest-run
+wandb/run-20250102_000117-oubhp1vj/run-oubhp1vj.wandb
+wandb/run-20250102_000117-oubhp1vj/files/conda-environment.yaml
+wandb/run-20250102_000117-oubhp1vj/files/config.yaml
+wandb/run-20250102_000117-oubhp1vj/files/requirements.txt
+wandb/run-20250102_000117-oubhp1vj/files/wandb-metadata.json
+wandb/run-20250102_000117-oubhp1vj/files/wandb-summary.json
+wandb/run-20250102_000117-oubhp1vj/logs/debug-internal.log
+wandb/run-20250102_000117-oubhp1vj/logs/debug.log
+wandb/run-20250102_000747-jvwebanc/run-jvwebanc.wandb
+wandb/run-20250102_000747-jvwebanc/files/conda-environment.yaml
+wandb/run-20250102_000747-jvwebanc/files/config.yaml
+wandb/run-20250102_000747-jvwebanc/files/output.log
+wandb/run-20250102_000747-jvwebanc/files/requirements.txt
+wandb/run-20250102_000747-jvwebanc/files/wandb-metadata.json
+wandb/run-20250102_000747-jvwebanc/files/wandb-summary.json
+wandb/run-20250102_000747-jvwebanc/files/media/images/Test img_0_36a3dc5fc3f199277b17.png
+wandb/run-20250102_000747-jvwebanc/files/media/images/Test img_1_36a3dc5fc3f199277b17.png
+wandb/run-20250102_000747-jvwebanc/files/media/images/Test img_2_36a3dc5fc3f199277b17.png
+wandb/run-20250102_000747-jvwebanc/files/media/images/Test img_3_36a3dc5fc3f199277b17.png
+wandb/run-20250102_000747-jvwebanc/files/media/images/Test img_4_36a3dc5fc3f199277b17.png
+wandb/run-20250102_000747-jvwebanc/logs/debug-internal.log
+wandb/run-20250102_000747-jvwebanc/logs/debug.log
